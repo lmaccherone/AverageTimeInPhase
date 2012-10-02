@@ -1,5 +1,6 @@
 # Average Time in Phase #
 
+
 Shows how long work items sit in particular phases (Defined, In-Progress, Completed, etc.) going back x (default 30) days.
 
 For stand-alone debugging, generate App-debug.html by running:

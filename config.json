@@ -1,5 +1,5 @@
 {
-    "name": "LookbackDefectsByPriorityV2",
+    "name": "AverageTimeInPhase",
     "className": "CustomApp",
     "sdk": "2.0p3", //TODO change to 2.0p4
     "javascript": [

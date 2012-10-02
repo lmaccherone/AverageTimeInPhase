@@ -3,7 +3,7 @@
     "className": "CustomApp",
     "sdk": "2.0p3", //TODO change to 2.0p4
     "javascript": [
-        "lumenize-a8cd49cb93.js", //TODO get this from SDK 2.0p4
+        "lumenize-a8cd49cb93.js", //TODO get this from SDK 2.0p4 or later
         "Transform.js", //TODO get this from SDK 2.0p4
         "TransformStore.js",  //TODO get this from SDK 2.0p4
         "DefectsByPriorityChart.js",

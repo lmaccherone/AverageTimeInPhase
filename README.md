@@ -1,7 +1,6 @@
-Lookback_Defects_By_Priority
-============================
+# Average Time in Phase #
 
-Defects by priority chart using the Rally Lookback API.
+Shows how long work items sit in particular phases (Defined, In-Progress, Completed, etc.) going back x (default 30) days.
 
 For stand-alone debugging, generate App-debug.html by running:
 rake debug
